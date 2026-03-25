@@ -1,0 +1,9 @@
+# Foldery kompilacji i pliki tymczasowe
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.exe
+*.pdb
